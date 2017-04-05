@@ -1,6 +1,9 @@
-# NSFWDetect
+# PHP - NSFW Detection API
 
 NSFWDetect uses the Haystack API using the AnalyzeAdult endpoint (https://www.haystack.ai/docs#analyzeadult). This can be used to scan a user's image uploads to ensure they do not contain nudity before saving the image to the server. 
+
+__Note:__  In order to use this program you must get a Free API key, which you can get by signing up at [Haystack NSFW API](https://www.haystack.ai/)
+
 
 ## Usage
 ```php
